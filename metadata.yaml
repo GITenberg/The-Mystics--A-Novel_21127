@@ -1,0 +1,32 @@
+_repo: The-Mystics--A-Novel_21127
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21127-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thurston, Katherine Cecil
+    birthdate: 1875
+    deathdate: 1911
+    gutenberg_agent_id: '1793'
+    url: http://www.gutenberg.org/2009/agents/1793
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Thurston
+description: ''
+gutenberg_issued: '2007-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21127'
+  lccn: '07014253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcsh 'Uncles -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Cults -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: 'The Mystics: A Novel'
+url: http://www.gutenberg.org/ebooks/21127
